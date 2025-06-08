@@ -7,10 +7,11 @@
 
 🎓 Tenho interesse em **Ciência de Dados**, **Machine Learning**, **Inteligência Artificial** e **Visualização de Dados**  
 📚 Atualmente estou aprendendo **Python**, **Power BI**, **Machine Learning**, **SQL** e **R**  
+
 🚀 Busco colaborar em projetos de **análise de dados**, **modelos de aprendizado de máquina** e **dashboards interativos**  
 
 📬 Como entrar em contato comigo:  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu_camilaloranne@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:camilaloranne@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-fran%C3%A7a-9833791bb/)
 
 👩 Pronomes: **Ela/Dela**  
