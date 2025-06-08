@@ -23,7 +23,7 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante apaixonada por dados e tecnologia, buscando oportunidades para aplicar meus conhecimentos em projetos reais e aprender cada vez mais. Estou me preparando para atuar como **Estagiária em Dados**, com foco em análise, modelagem preditiva e insights estratégicos.
+Sou estudante apaixonada por dados e tecnologia, buscando oportunidades para aplicar meus conhecimentos em projetos reais e aprender cada vez mais. Estou me preparando para atuar na **Área de Dados**, com foco em análise, modelagem preditiva e insights estratégicos.
 
 ---
 
