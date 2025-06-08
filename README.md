@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProgramadorReal/programadorreal/main/assets/data_banner.gif" alt="Dados e Tecnologia" />
+  <img src="https://raw.githubusercontent.com/CamilaLoranne/assets/main/data-banner.png" alt="Banner área de dados" />
 </p>
+
 
 # 👩‍💻 Olá, sou Camila França!
 
@@ -35,4 +36,5 @@ Sou estudante apaixonada por dados e tecnologia, buscando oportunidades para apl
 
 ![:contentReference[oaicite:2]{index=2}](https://github-readme-stats.vercel.app/api?username=CamilaLoranne&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaLoranne&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaLoranne&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
