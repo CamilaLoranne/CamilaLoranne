@@ -1,7 +1,7 @@
 # 👩‍💻 Olá, sou Camila França!
 
 🎓 Tenho interesse em **Ciência de Dados**, **Machine Learning**, **Inteligência Artificial** e **Visualização de Dados**  
-📚 Atualmente estou aprendendo **Python**, **Power BI**, **Machine Learning** e **Análise de Séries Temporais**  
+📚 Atualmente estou aprendendo **Python**, **Power BI**, **Machine Learning**, **SQL** e **R**  
 🚀 Busco colaborar em projetos de **análise de dados**, **modelos de aprendizado de máquina** e **dashboards interativos**  
 
 📬 Como entrar em contato comigo:  
