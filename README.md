@@ -1,40 +1,68 @@
+<!-- Banner de topo -->
 <p align="center">
-  <img src="https://github.com/CamilaLoranne/CamilaLoranne/blob/main/camila3.jpg" alt="Banner área de dados" />
+  <img src="https://github.com/CamilaLoranne/CamilaLoranne/blob/main/camila3.jpg" alt="banner" width="100%" />
 </p>
 
 
-# 👩‍💻 Olá, sou Camila França!
+<h1 align="center">✨ Olá, sou Camila França! ✨</h1>
 
-🎓 Tenho interesse em **Ciência de Dados**, **Machine Learning**, **Inteligência Artificial** e **Visualização de Dados**  
-📚 Atualmente estou aprendendo **Python**, **Power BI**, **Machine Learning**, **SQL** e **R**  
-🚀 Busco colaborar em projetos de **análise de dados**, **modelos de aprendizado de máquina** e **dashboards interativos**  
+<p align="center">
+🎓 Fisioterapeuta em transição de carreira para a área de Dados<br>
+💡 Apaixonada por transformar dados brutos em soluções inteligentes<br>
+📊 Explorando Ciência de Dados, Machine Learning e Visualização de Dados
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 📍 Local: São Paulo/SP  
+- 📈 Interesse em: Ciência de Dados, Machine Learning, Inteligência Artificial, Visualização de Dados  
+- 👩‍💻 Atualmente aprendendo: **Python**, **Power BI**, **R**, **SQL**, **Machine Learning**
+- 🔍 Buscando: Projetos colaborativos e oportunidades em análise de dados com foco na área da saúde  
+- 💬 Pronomes: **Ela/Dela**  
+- 🧠 Curiosidade: *Adoro transformar dados brutos em insights reais — estou sempre curiosa para explorar como os dados impactam nossas decisões do dia a dia!*
+
+---
 
 📬 Como entrar em contato comigo:  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:camilaloranne@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-fran%C3%A7a-9833791bb/)
 
-👩 Pronomes: **Ela/Dela**  
-💡 Curiosidade: *Adoro transformar dados brutos em insights reais — estou sempre curiosa para explorar como os dados impactam nossas decisões do dia a dia!*
-
----
-
-## 🛠️ Tecnologias que estou aprendendo:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="mailto:camilaloranne@gmail.com"><img src="https://img.shields.io/badge/Email-camilaloranne@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/camila-frança-9833791bb/"><img src="https://img.shields.io/badge/LinkedIn-Camila França-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sites.google.com/view/portfoliocamilafranca/in%C3%ADcio"><img src="https://img.shields.io/badge/Portfólio-Site-9cf?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 Sobre mim
+### 🛠 Tecnologias e Ferramentas
 
-Sou estudante apaixonada por dados e tecnologia, buscando oportunidades para aplicar meus conhecimentos em projetos reais e aprender cada vez mais. Estou me preparando para atuar na **Área de Dados**, com foco em análise, modelagem preditiva e insights estratégicos.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![:contentReference[oaicite:2]{index=2}](https://github-readme-stats.vercel.app/api?username=CamilaLoranne&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaLoranne&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaLoranne&layout=compact&theme=tokyonight" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaLoranne&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🌱 Em evolução constante!
+
+✨ Meu objetivo é crescer na Área de Dados, com olhar clínico e analítico.
+
+---
+
+### 🧠 Frase que me inspira:
+> *“Sem dados, você é apenas mais uma pessoa com uma opinião.” – W. Edwards Deming*
 
