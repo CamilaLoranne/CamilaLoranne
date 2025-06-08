@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Banner área de dados" />
+  <img src="https://github.com/CamilaLoranne/CamilaLoranne/blob/main/camila3.jpg" alt="Banner área de dados" />
 </p>
 
 
