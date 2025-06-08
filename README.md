@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProgramadorReal/programadorreal/main/assets/data_banner.gif" alt="Dados e Tecnologia" />
+</p>
+
 # 👩‍💻 Olá, sou Camila França!
 
 🎓 Tenho interesse em **Ciência de Dados**, **Machine Learning**, **Inteligência Artificial** e **Visualização de Dados**  
@@ -5,7 +9,7 @@
 🚀 Busco colaborar em projetos de **análise de dados**, **modelos de aprendizado de máquina** e **dashboards interativos**  
 
 📬 Como entrar em contato comigo:  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu_camilaloranne@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-fran%C3%A7a-9833791bb/)
 
 👩 Pronomes: **Ela/Dela**  
@@ -27,7 +31,8 @@ Sou estudante apaixonada por dados e tecnologia, buscando oportunidades para apl
 
 ---
 
-## 📊 GitHub Stats:
-![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamilaLoranne&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![:contentReference[oaicite:2]{index=2}](https://github-readme-stats.vercel.app/api?username=CamilaLoranne&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaLoranne&layout=compact&theme=radical)
