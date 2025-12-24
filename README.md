@@ -7,7 +7,7 @@
 <h1 align="center">✨ Olá, sou Camila França! ✨</h1>
 
 <p align="center">
-🎓 Fisioterapeuta em transição de carreira para a área de Dados<br>
+🎓 Analista de Dados em Formação<br>
 💡 Apaixonada por transformar dados brutos em soluções inteligentes<br>
 📊 Explorando Ciência de Dados, Machine Learning e Visualização de Dados
 </p>
@@ -19,7 +19,7 @@
 - 📍 Local: São Paulo/SP  
 - 📈 Interesse em: Ciência de Dados, Machine Learning, Inteligência Artificial, Visualização de Dados  
 - 👩‍💻 Atualmente aprendendo: **Python**, **Power BI**, **R**, **SQL**, **Machine Learning**
-- 🔍 Buscando: Projetos colaborativos e oportunidades em análise de dados com foco na área da saúde  
+- 🔍 Buscando: Projetos colaborativos e oportunidades em análise de dados  
 - 💬 Pronomes: **Ela/Dela**  
 - 🧠 Curiosidade: *Adoro transformar dados brutos em insights reais — estou sempre curiosa para explorar como os dados impactam nossas decisões do dia a dia!*
 
